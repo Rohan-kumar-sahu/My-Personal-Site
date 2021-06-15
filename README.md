@@ -1,5 +1,4 @@
 # Personalsite
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -80,6 +79,7 @@
     </tr>
   </table>
   <hr>
-  <a href="CONTACT DETAIL1.HTML">CONTACT ME</a>
+  <a href="CONTACT DETAIL1.HTML">CONTACT ME</a><br><br>
   </body>
 </html>
+© 2021 Rohan Kumar Sahu
