@@ -1,4 +1,4 @@
-# Personalsite
+# My Personal Site
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -31,22 +31,22 @@
       </tr>
       <tr>
         <td>2</td>
-        <td>2017-2018</td>
+        <td>2019-2020</td>
         <td>VB.NET</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>2018-2019</td>
+        <td>2019-2020</td>
         <td>C PROGRAMMING</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>2018-2019</td>
+        <td>2020-2021</td>
         <td>C++</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>2019-2020</td>
+        <td>2020-2021</td>
         <td>HTML</td>
       </tr>
     </tbody>
