@@ -5,9 +5,9 @@
   <body>
               <img src="https://pbs.twimg.com/profile_images/1401100625241264128/_Y7Pbcpl_400x400.jpg" alt="ROHAN PROFILE PIC">
           <h2>
-            <b>
+            <b><i>
           - Hi, I’m Rohan Kumar Sahu<br>
-            </b>
+            </b></i>
         </h2>
         <h3>
           - ☺ I’m interested in Web Developmenmt <br>
